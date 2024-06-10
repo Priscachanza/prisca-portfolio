@@ -90,8 +90,10 @@ p {
   #app-launch {
     display: none;
   }
-  #about-me,
-  #prisca-heading {
+  #about-me {
     font-size: 76px;
+  }
+  #prisca-heading {
+    font-size: 66px;
   }
 }
