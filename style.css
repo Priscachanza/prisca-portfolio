@@ -86,12 +86,12 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-@media(max-width: 576px){
-  #app-launch{
-  display:none;
-
-}
-#about-me {
-  font-size: 76px;
-}
+@media (max-width: 576px) {
+  #app-launch {
+    display: none;
+  }
+  #about-me,
+  #prisca-heading {
+    font-size: 76px;
+  }
 }
